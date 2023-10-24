@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<Parks>
+    <Park type="Natural">
+        <Owner>Federal Government</Owner>
+        <Name>Yellowstone</Name>
+        <Established>1872</Established>
+        <Reservation>
+            <Address>Yellowstone National Park, WY 82190-0168</Address>
+            <Url>www.nps.gov/yell</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Wyoming</State>
+            <State>Montana</State>
+            <State>Idaho</State>
+        </NeighboringStates>
+    </Park>
+
+    <Park type="Historical">
+        <Owner>Federal Government</Owner>
+        <Name>Gettysburg</Name>
+        <Established>1895</Established>
+        <Reservation>
+            <Address>1195 Baltimore Pike, Gettysburg, PA 17325</Address>
+            <Url>www.nps.gov/gett</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Pennsylvania</State>
+        </NeighboringStates>
+    </Park>
+
+    <Park type="Recreational">
+        <Owner>Federal Government</Owner>
+        <Name>Yosemite</Name>
+        <Established>1890</Established>
+        <Reservation>
+            <Address>Yosemite Valley, CA 95389</Address>
+            <Url>www.nps.gov/yose</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>California</State>
+            <State>Nevada</State>
+        </NeighboringStates>
+    </Park>
+
+    <Park type="Marine">
+        <Owner>Federal Government</Owner>
+        <Name>Channel Islands</Name>
+        <Established>1980</Established>
+        <Reservation>
+            <Address>1901 Spinnaker Drive, Ventura, CA 93001</Address>
+            <Url>www.nps.gov/chis</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>California</State>
+        </NeighboringStates>
+    </Park>
+
+    <Park type="Recreational">
+        <Owner>Federal Government</Owner>
+        <Name>Rocky Mountain</Name>
+        <Established>1915</Established>
+        <Reservation>
+            <Address>1000 Highway 36, Estes Park, CO 80517</Address>
+            <Url>www.nps.gov/romo</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Colorado</State>
+            <State>Wyoming</State>
+        </NeighboringStates>
+    </Park>
+
+    <Park type="Historical">
+        <Owner>Federal Government</Owner>
+        <Name>Independence</Name>
+        <Established>1948</Established>
+        <Reservation>
+            <Address>143 S. Third Street, Philadelphia, PA 19106</Address>
+            <Url>www.nps.gov/inde</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Pennsylvania</State>
+            <State>New Jersey</State>
+            <State>Delaware</State>
+        </NeighboringStates>
+    </Park>
+
+    <Park type="Recreational">
+        <Owner>Federal Government</Owner>
+        <Name>Great Smoky Mountains</Name>
+        <Established>1934</Established>
+        <Reservation>
+            <Address>107 Park Headquarters Road, Gatlinburg, TN 37738</Address>
+            <Url>www.nps.gov/grsm</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Tennessee</State>
+            <State>North Carolina</State>
+        </NeighboringStates>
+    </Park>
+
+    <Park type="Natural">
+        <Owner>Federal Government</Owner>
+        <Name>Grand Canyon</Name>
+        <Established>1919</Established>
+        <Reservation>
+            <Address>20 South Entrance Road, Grand Canyon, AZ 86023</Address>
+            <Url>www.nps.gov/grca</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Arizona</State>
+            <State>Nevada</State>
+            <State>Utah</State>
+        </NeighboringStates>
+    </Park>
+
+    <Park type="Recreational">
+        <Owner>Federal Government</Owner>
+        <Name>Acadia</Name>
+        <Established>1916</Established>
+        <Reservation>
+            <Address>25 Visitor Center Road, Bar Harbor, ME 04609</Address>
+            <Url>www.nps.gov/acad</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Maine</State>
+            <State>New Hampshire</State>
+        </NeighboringStates>
+    </Park>
+
+    <Park type="Natural">
+        <Owner>Federal Government</Owner>
+        <Name>Glacier</Name>
+        <Established>1910</Established>
+        <Reservation>
+            <Address>64 Grinnell Drive, West Glacier, MT 59936</Address>
+            <Url>www.nps.gov/glac</Url>
+        </Reservation>
+        <NeighboringStates>
+            <State>Montana</State>
+            <State>Idaho</State>
+        </NeighboringStates>
+    </Park>
+</Parks>
